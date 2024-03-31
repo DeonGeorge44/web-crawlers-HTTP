@@ -1,0 +1,19 @@
+{
+  "name": "web-crawlers-http",
+  "version": "1.0.0",
+  "description": "Crawl a website and produce a  report of the internal linking structrure of a website",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "start" : "git",
+    "test" : "https://github.com/DeonGeorge44/web-crawlers-HTTP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}

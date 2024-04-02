@@ -1,1 +1,1 @@
-console.log('server enabled')
+console.log('server enabled');
